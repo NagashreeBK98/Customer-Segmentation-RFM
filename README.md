@@ -41,7 +41,10 @@ Clustering techniques are then used to form meaningful customer segments.
 
 - RFM score distributions  
 - Customer clustering visualizations  
-- Segment-level insights  
+- Segment-level insights
+
+  <img width="1489" height="490" alt="output4" src="https://github.com/user-attachments/assets/ef525d5e-2564-4536-9778-6a47c70ec5f1" />
+
 
 
 ---
