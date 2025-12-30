@@ -45,7 +45,7 @@ Clustering techniques are then used to form meaningful customer segments.
 
   <img width="1489" height="490" alt="output4" src="https://github.com/user-attachments/assets/ef525d5e-2564-4536-9778-6a47c70ec5f1" />
 
-
+  <img width="1489" height="490" alt="output0" src="https://github.com/user-attachments/assets/78b0d50b-8913-49d6-9d8b-ab257c8b9f30" />
 
 ---
 
